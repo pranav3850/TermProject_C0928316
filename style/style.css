@@ -639,7 +639,7 @@ print {
 
 
 
-.cart-items {
+#cart-items {
   margin-left: 30%;
   padding: 20px;
   border: 1px solid #725122;
@@ -659,5 +659,11 @@ print {
 .cart-total {
   padding: 20px;
   font-size: 18px;
+  font-weight: bold;
+}
+
+
+#cart-summary {
+  margin-top: 20px;
   font-weight: bold;
 }
